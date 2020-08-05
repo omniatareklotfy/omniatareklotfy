@@ -1,7 +1,3 @@
-<!--
-**omniatareklotfy/omniatareklotfy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 <h1 align="center">Hi I'm Omnia 👋</h1>
 <p align="center">
     <a href="https://www.linkedin.com/in/omnia-tarek-b38b99ab/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
@@ -18,4 +14,3 @@
        -  Generate Automated Reports in UI and Api Testing
        -  Working knowledge of bug tracking tools such as Atlassian and Jira
 🔍 Efficient multitasker
-
