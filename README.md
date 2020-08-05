@@ -7,10 +7,10 @@
   <img src="https://avatars3.githubusercontent.com/u/40431807?s=400&u=d826ac9b5ad828c1f2ca8dff6a02d987570d0579&v=4" align="right" width="25%"/>
 
 - 🔭 I'm a SW Tester Certified in ( ISTQB Foundation Level , ISTQB Foundation extension-Agile )
-- 💻 Experience developing and executing automated and manual test scripts for requirement validation, integration, regression, performance and usability testing
+- 💻 Experience executing automated and manual test scripts for requirement validation, integration, regression, performance and usability testing
 - 🤖 Expertise on QA Automation tools :
-       -  Extensive experience working in various testing frameworks (Selenium WebDriver), TestNG, Postman, JmeterNightwatchjs, cypress, mocha)
-       -  Proficient in developing software or test automation in Javascript, Java
-       -  Generate Automated Reports in UI and Api Testing
-       -  Working knowledge of bug tracking tools such as Atlassian and Jira
+      -  Extensive experience working in various testing frameworks (Selenium, TestNG, Postman, JmeterNightwatchjs, cypress, mocha)
+      -  Proficient in developing software or test automation in Javascript, Java
+      -  Generate Automated Reports in UI and Api Testing
+      -  Working knowledge of bug tracking tools such as Atlassian and Jira
 - 🔍 Efficient multitasker
