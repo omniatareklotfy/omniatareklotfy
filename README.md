@@ -34,7 +34,7 @@
 <p >
   <img src="https://img.shields.io/badge/Integration%20Testing-red?&style=for-the-badge&logo=logoColor=white" />&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Regression%20Testing-yellow?&style=for-the-badge&logo=logoColor=white" />&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/USABILITY%20Testing-green?&style=for-the-badge&logo=logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/USABILITY%20Testing-green?&style=for-the-badge&logo=logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Mobile%20Testing-blue?&style=for-the-badge&logo=logoColor=white" />&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/API%20Testing-orange?&style=for-the-badge&logo=logoColor=white" />&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/LOAD%20Testing-brown?&style=for-the-badge&logo=logoColor=white" />&nbsp;&nbsp;
