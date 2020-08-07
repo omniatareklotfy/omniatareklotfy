@@ -25,8 +25,9 @@
 <h4> 🔭 I'm a SW Tester Certified in ...</h4>
 
 <p >
-  <img src="https://img.shields.io/badge/ISTQB-Foundation%20Level-blue?style=for-the-badge&labelColor=red&logo-ISTQB" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/ISTQB-Foundation%20Extension%20Agile-blue?style=for-the-badge&labelColor=red&logo-ISTQB" />&nbsp;&nbsp;<img 
+  <img src="https://img.shields.io/badge/ISTQB-Foundation%20Level-blue?style=for-the-badge&labelColor=red&logo-ISTQB" />
+  <br><img src="https://img.shields.io/badge/ISTQB-Foundation%20Extension%20Agile-blue?style=for-the-badge&labelColor=red&logo-ISTQB" /></br>
+  <img 
 </p>
     
 <h4> 🌱 I have experience in ...</h4>
@@ -34,10 +35,10 @@
 <p >
   <img src="https://img.shields.io/badge/Integration%20Testing-red?&style=for-the-badge&logo=logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Regression%20Testing-yellow?&style=for-the-badge&logo=logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/USABILITY%20Testing-green?&style=for-the-badge&logo=logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/Mobile%20Testing-blue?&style=for-the-badge&logo=logoColor=white" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/API%20Testing-orange?&style=for-the-badge&logo=logoColor=white" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/LOAD%20Testing-brown?&style=for-the-badge&logo=logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/USABILITY%20Testing-green?&style=for-the-badge&logo=logoColor=white" />
+  <br><img src="https://img.shields.io/badge/Mobile%20Testing-blue?&style=for-the-badge&logo=logoColor=white" />&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/API%20Testing-orange?&style=for-the-badge&logo=logoColor=white" />&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/LOAD%20Testing-brown?&style=for-the-badge&logo=logoColor=white" /></br>
 </p>
     
  
@@ -46,8 +47,8 @@
 <p >
   <img src="https://img.shields.io/badge/NIGHTWATCHJS-black?&style=for-the-badge&logo=logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/CYPRESS-rgb(1, 184, 172)?&style=for-the-badge&logo=logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/SELENIUM-gray?&style=for-the-badge&logo=logoColor=white"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/TESTNG-red?&style=for-the-badge&logo=logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/SELENIUM-gray?&style=for-the-badge&logo=logoColor=white"/>
+  <br><img src="https://img.shields.io/badge/TESTNG-red?&style=for-the-badge&logo=logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/POSTMAN-orange?&style=for-the-badge&logo=logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/JMETER-blue?&style=for-the-badge&logo=logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/JMETER-blue?&style=for-the-badge&logo=logoColor=white" /></br>
 </p>
