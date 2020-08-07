@@ -8,7 +8,7 @@
     
   </p>
   
-  <img src="https://blog.hotmart.com/blog/2016/10/afiliados-670x419.png" align="right" width="25%"/>
+  <img src="https://images.idgesg.net/images/article/2017/08/robot_gear_automation_thinkstock_606703118_3x2-100732427-large.jpg" align="right" hight="40%" width="40%"/>
 
 <!--
 - 🔭 I'm a SW Tester Certified in ... ( ISTQB Foundation Level , ISTQB Foundation extension-Agile )
