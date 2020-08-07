@@ -2,13 +2,9 @@
 <p align="center">
     <a href="https://www.linkedin.com/in/omnia-tarek-b38b99ab/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://testautomationu.applitools.com/certificate/?id=84deca70"><img src="https://testautomationu.applitools.com/logo.png" width="109" height="28"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-  </p>
-  <p> 
-    
   </p>
   
-  <img src="https://images.idgesg.net/images/article/2017/08/robot_gear_automation_thinkstock_606703118_3x2-100732427-large.jpg" align="right" hight="40%" width="40%"/>
+ 
 
 <!--
 - 🔭 I'm a SW Tester Certified in ... ( ISTQB Foundation Level , ISTQB Foundation extension-Agile )
