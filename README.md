@@ -10,6 +10,7 @@
   
   <img src="https://avatars3.githubusercontent.com/u/40431807?s=400&u=d826ac9b5ad828c1f2ca8dff6a02d987570d0579&v=4" align="right" width="25%"/>
 
+<!--
 - 🔭 I'm a SW Tester Certified in ... ( ISTQB Foundation Level , ISTQB Foundation extension-Agile )
 - 🌱 I have experience in ...
 - 💻 Experience executing automated and manual test scripts for requirement validation, integration, regression, performance and usability testing
@@ -19,7 +20,7 @@
      - Generate Automated Reports in UI and Api Testing
      - Working knowledge of bug tracking tools such as Atlassian and Jira
 - 🔍 Efficient multitasker
-
+-->
 
 <h4> 🔭 I'm a SW Tester Certified in ...</h4>
 
@@ -39,7 +40,7 @@
 <h4> Expertise on QA Automation tools ...</h4>
 
 <p >
-  <img src="https://img.shields.io/badge/SELENIUM-blue?&style=for-the-badge&logo=logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/NIGHTWATCHJS-blue?&style=for-the-badge&logo=logoColor=white" />&nbsp;&nbsp;<img 
-   src="https://img.shields.io/badge/CYPRESS-blue?&style=for-the-badge&logo=logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/TESTNG-blue?&style=for-the-badge&logo=logoColor=white" />&nbsp;&nbsp;<img 
-      src="https://img.shields.io/badge/POSTMAN-blue?&style=for-the-badge&logo=logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/JMETER-blue?&style=for-the-badge&logo=logoColor=white" />&nbsp;&nbsp;<img 
+  <img src="https://img.shields.io/badge/SELENIUM-gray?&style=for-the-badge&logo=logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/NIGHTWATCHJS-black?&style=for-the-badge&logo=logoColor=white" />&nbsp;&nbsp;<img 
+   src="https://img.shields.io/badge/CYPRESS-rgb(1, 184, 172)?&style=for-the-badge&logo=logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/TESTNG-red?&style=for-the-badge&logo=logoColor=white" />&nbsp;&nbsp;<img 
+      src="https://img.shields.io/badge/POSTMAN-orange?&style=for-the-badge&logo=logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/JMETER-blue?&style=for-the-badge&logo=logoColor=white" />&nbsp;&nbsp;<img 
 </p>
