@@ -22,7 +22,9 @@
 
 <p >
   <img src="https://img.shields.io/badge/ISTQB-Foundation%20Level-blue?style=for-the-badge&labelColor=red&logo-ISTQB" />
-  <br><img src="https://img.shields.io/badge/ISTQB-Foundation%20Extension%20Agile-blue?style=for-the-badge&labelColor=red&logo-ISTQB" /></br>
+  <br><img src="https://img.shields.io/badge/ISTQB-Foundation%20Extension%20Agile-blue?style=for-the-badge&labelColor=red&logo-ISTQB" />
+    <img src="https://img.shields.io/badge/ISTQB-Mobile%20Application%20Tester-blue?style=for-the-badge&labelColor=red&logo-ISTQB" />
+</br>
   <img 
 </p>
     
@@ -33,9 +35,6 @@
   <img src="https://img.shields.io/badge/Regression%20Testing-yellow?&style=for-the-badge&logo=logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/USABILITY%20Testing-green?&style=for-the-badge&logo=logoColor=white" />
   <br><img src="https://img.shields.io/badge/Mobile%20Testing-blue?&style=for-the-badge&logo=logoColor=white" />&nbsp;&nbsp;
-      <img src="https://img.shields.io/badge/API%20Testing-orange?&style=for-the-badge&logo=logoColor=white" />&nbsp;&nbsp;
-      <img src="https://img.shields.io/badge/LOAD%20Testing-brown?&style=for-the-badge&logo=logoColor=white" />
-   <br><img src="https://img.shields.io/badge/Mobile%20Testing-blue?&style=for-the-badge&logo=logoColor=white" />&nbsp;&nbsp;
       <img src="https://img.shields.io/badge/API%20Testing-orange?&style=for-the-badge&logo=logoColor=white" />&nbsp;&nbsp;
       <img src="https://img.shields.io/badge/LOAD%20Testing-brown?&style=for-the-badge&logo=logoColor=white" /></br>
 </p>
