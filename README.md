@@ -34,6 +34,9 @@
   <img src="https://img.shields.io/badge/USABILITY%20Testing-green?&style=for-the-badge&logo=logoColor=white" />
   <br><img src="https://img.shields.io/badge/Mobile%20Testing-blue?&style=for-the-badge&logo=logoColor=white" />&nbsp;&nbsp;
       <img src="https://img.shields.io/badge/API%20Testing-orange?&style=for-the-badge&logo=logoColor=white" />&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/LOAD%20Testing-brown?&style=for-the-badge&logo=logoColor=white" />
+   <br><img src="https://img.shields.io/badge/Mobile%20Testing-blue?&style=for-the-badge&logo=logoColor=white" />&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/API%20Testing-orange?&style=for-the-badge&logo=logoColor=white" />&nbsp;&nbsp;
       <img src="https://img.shields.io/badge/LOAD%20Testing-brown?&style=for-the-badge&logo=logoColor=white" /></br>
 </p>
     
