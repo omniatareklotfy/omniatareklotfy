@@ -7,7 +7,7 @@
  
 
 <!--
-- 🔭 I'm a SW Tester Certified in ... ( ISTQB Foundation Level , ISTQB Foundation extension-Agile )
+- 🔭 I'm a Senior SW Tester Certified in ... ( ISTQB Foundation Level , ISTQB Foundation extension-Agile , ISTQB Mobile Application Tester)
 - 🌱 I have experience in ...
 - 💻 Experience executing automated and manual test scripts for requirement validation, integration, regression, performance and usability testing
 - 🤖 Expertise on QA Automation tools ...
@@ -18,7 +18,7 @@
 - 🔍 Efficient multitasker
 -->
 
-<h4> 🔭 I'm a SW Tester Certified in ...</h4>
+<h4> 🔭 I'm a Senior SW Tester Certified in ...</h4>
 
 <p >
   <img src="https://img.shields.io/badge/ISTQB-Foundation%20Level-blue?style=for-the-badge&labelColor=red&logo-ISTQB" />
