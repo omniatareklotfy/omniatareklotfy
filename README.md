@@ -40,7 +40,7 @@
 </p>
     
  
-<h4> 🤖 Expertise on QA Automation tools ...</h4>
+<h4> 🤖 Expertise on QA Automation tools and Frameworks ...</h4>
 
 <p >
   <img src="https://img.shields.io/badge/NIGHTWATCHJS-black?&style=for-the-badge&logo=logoColor=white" />&nbsp;&nbsp;
