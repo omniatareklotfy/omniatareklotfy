@@ -24,6 +24,8 @@
   <img src="https://img.shields.io/badge/ISTQB-Foundation%20Level-blue?style=for-the-badge&labelColor=red&logo-ISTQB" />
   <br><img src="https://img.shields.io/badge/ISTQB-Foundation%20Extension%20Agile-blue?style=for-the-badge&labelColor=red&logo-ISTQB" />
   <br><img src="https://img.shields.io/badge/ISTQB-Mobile%20Application%20Testing-blue?style=for-the-badge&labelColor=red&logo-ISTQB" />
+  <br><img src="https://img.shields.io/badge/ISTQB-Performance%20Testing-blue?style=for-the-badge&labelColor=red&logo-ISTQB" />
+
 </br>
   <img 
 </p>
