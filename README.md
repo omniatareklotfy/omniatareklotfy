@@ -1,7 +1,10 @@
 <h1 align="center">Hi there 👋, I'm Omnia 👩‍💻</h1>
 <p align="center">
     <a href="https://www.linkedin.com/in/omnia-tarek-lotfy/">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.upwork.com/freelancers/~01006961705c35c9b3">
+        <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/>
     </a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://testautomationu.applitools.com/certificate/?id=84deca70">
         <img src="https://testautomationu.applitools.com/logo.png" width="109" height="28">
